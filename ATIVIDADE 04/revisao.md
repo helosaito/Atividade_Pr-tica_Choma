@@ -45,7 +45,8 @@ Encerramento
 
 ## 2 - GRAFO - pdf 
 
-## 3 - Nós: 10
+## 3 - Nós, arestas e complexidade
+Nós: 10
 Arestas: 12
 Complexidade pela primeira fórmula: V(G) = E - N + 2 = 12 - 10 + 2 = 4
 Complexidade pela segunda fórmula: há 3 decisões, então V(G) = 3 + 1 = 4
@@ -127,7 +128,7 @@ Encerramento
 
 ## 2 - GRAFO pdf
 
-## 3 
+## 3 - Nós, arestas e complexidade
 Nós: 10
 Arestas: 12
 Complexidade pela primeira fórmula: V(G) = E - N + 2 = 12 - 10 + 2 = 4
